@@ -17,8 +17,9 @@ We are an international club of students and non-students who want to meet new p
 We were playing in the Bayerische Fussball-Verband for several years but in 2016 we decided to move to the Royal Bavarian Liga. With this change, we are able to have more fun but still be a competitive team with regular matches and training sessions.</br>
 We are more flexible (new players can be signed quicker), we can play more often during the week and the atmosphere in this league is more relaxed with the focus on playing nice football.</br>
 Check the information of our teams on the Royal Bavarian Liga Web Page:</br>
-[SV Studentenstadt I](https://www.royalbavarianliga.de/teaminfo.php?vid=o654&saison=2018&teamid=o1243)</br>
-[SV Studentenstadt II](https://www.royalbavarianliga.de/teaminfo.php?vid=o654&saison=2018&teamid=o1759)</br>
+[SV Studentenstadt I](https://www.royalbavarianliga.de/teamhistory.php?teamid=o1243&saison=2030)</br>
+[SV Studentenstadt II](https://www.royalbavarianliga.de/teamhistory.php?teamid=o1759&saison=2030)</br>
+[SV Studentenstadt II](https://www.royalbavarianliga.de/teamhistory.php?teamid=o2109&saison=2030)</br>
 
 # Where do we play
 The training take place in Studentenstadt (U6) or Kieferngarten (U6). During the season (February-November) we train outdoors three times per week:</br>
